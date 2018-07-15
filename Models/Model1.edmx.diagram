@@ -4,11 +4,11 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="aa92b657e1d14631bf11fe09f1a3af3f" Name="Diagram1">
-        <EntityTypeShape EntityType="CMSModel.tblLogin" Width="1.5" PointX="0.75" PointY="0.75" />
-        <EntityTypeShape EntityType="CMSModel.tblUser" Width="1.5" PointX="2" PointY="3.375" />
-        <EntityTypeShape EntityType="CMSModel.tblNotification" Width="1.5" PointX="4.375" PointY="3.75" />
-        <EntityTypeShape EntityType="CMSModel.tblShipping" Width="1.5" PointX="6.375" PointY="0.75" />
+      <Diagram DiagramId="763c845422b04864bf8c1cabd14ef98d" Name="Diagram1">
+        <EntityTypeShape EntityType="CMSModel.tblLogin" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.tblNotification" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.tblShipping" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.tblUser" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
